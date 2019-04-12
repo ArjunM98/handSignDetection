@@ -1,3 +1,3 @@
 # handSignDetection
 
-Classifying Handsigns
+Classifying hand signs
